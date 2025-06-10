@@ -65,5 +65,4 @@ pip install requests beautifulsoup4 pandas
 - books.csv – Product data from the web scraper
 - Contacts are managed in-memory (persistence optional)
 
-📜 License
-This project is open-source and available under the MIT License.
+
